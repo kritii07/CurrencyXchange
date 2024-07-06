@@ -1,8 +1,6 @@
 
 # CurrencyXchange
 
-## Overview
-
 CurrencyXchange is a simple React application built with Vite. It allows users to convert amounts from one currency to another using real-time exchange rates.
 
 ## Features
